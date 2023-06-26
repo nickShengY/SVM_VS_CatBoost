@@ -1,4 +1,4 @@
-# Final Project for Machine Learning
+# SVM VS Catboost
 
 **Report** is under: Comparative_Analysis_of_SVM_and_CatBoost_on_SPECTF_ShengY.pdf
 
